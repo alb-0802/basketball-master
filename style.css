@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-image: url('assets/images/OgQB4p.jpg');
+    background-size: 100%;
+    background-position: center;
+    @media screen { 
+        overflow: hidden;    /*Responsive*/
+    } 
+}
+
+h2{
+    color: rgb(189, 18, 18);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+footer{
+    text-align: center;
+}
+        canvas {
+            margin: 0 auto;
+            border: thin solid black;
+        }
+        span {
+            display: block;
+            margin: 30px auto;
+            width: 500px;
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+        }
